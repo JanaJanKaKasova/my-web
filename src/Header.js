@@ -9,7 +9,9 @@ class Header extends Component {
           <div className="col-sm main_pic">
             <img src={main_pic} alt="Main_pic" />
           </div>
-          <div className="col-sm">fň</div>
+          <div className="col-sm quote">
+            <h1>"Dreams don't work unless we do"</h1>
+          </div>
         </div>
       </div>
     );
