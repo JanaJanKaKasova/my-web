@@ -7,8 +7,8 @@ class App extends Component {
     return (
       <div>
         <Navbar />
-        <div>Hello World!</div>
-        <h1>Hellooo</h1>
+        {/* <div>Hello World!</div>
+        <h1>Hellooo</h1> */}
       </div>
     );
   }
