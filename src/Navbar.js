@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./navbar.css";
-import logo from "./logo_small.jpeg";
+import logo from "./pics/logo_small.jpeg";
 
 // console.log(logo);
 
