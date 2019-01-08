@@ -1,11 +1,10 @@
-.main_pic {
-  max-width: 70%;
-  z-index: 0;
-  position: absolute;
-}
-
-.quote {
+h1 {
+  font-family: "Abril Fatface", cursive;
+  font-size: 80px;
   z-index: 1;
   position: relative;
+}
+
+h4 {
   text-align: right;
 }
