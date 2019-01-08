@@ -7,4 +7,5 @@
 .quote {
   z-index: 1;
   position: relative;
+  text-align: right;
 }
