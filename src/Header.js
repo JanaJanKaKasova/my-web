@@ -6,15 +6,18 @@ class Header extends Component {
     return (
       <div className="conatiner-fluid header_container">
         <div className="row pt-4">
-          <div className="main_pic">
-            {/* <img src={main_pic} alt="Main_pic" /> */}
-            <div className="quote">
-              <h1>"Dreams don't work unless we do"</h1>
+          <div className="col-sm-6 main_pic">
+            <img src={main_pic} alt="Main_pic" />
+          </div>
+          <div className="col-sm-6 pt-5">
+            <div className="row pt-5 pb-3" />
+            <div className="row pt-5">
+              <h1>
+                <p>"Dreams don't work</p>
+                <p>unless we do"</p>
+              </h1>
             </div>
           </div>
-          {/* <div className="col-sm quote">
-            <h1>"Dreams don't work unless we do"</h1>
-    </div> */}
         </div>
       </div>
     );
