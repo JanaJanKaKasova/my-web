@@ -16,7 +16,7 @@ class Header extends Component {
               <h1>"Dreams don't work unless we do"</h1>
             </div>
             <div className="row">
-              <h4>John C. Maxwell</h4>
+              <h5>John C. Maxwell</h5>
             </div>
           </div>
           <div className="col-sm-1" />
