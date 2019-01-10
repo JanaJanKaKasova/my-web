@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 import Navbar from "./Navbar";
 import Header from "./Header";
+import About from "./About";
 
 class App extends Component {
   render() {
@@ -9,8 +10,7 @@ class App extends Component {
       <div>
         <Navbar />
         <Header />
-        {/* <div>Hello World!</div>
-        <h1>Hellooo</h1> */}
+        <About />
       </div>
     );
   }
