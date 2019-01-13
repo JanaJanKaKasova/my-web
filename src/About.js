@@ -12,13 +12,13 @@ class About extends Component {
           </div>
         </div>
         <div className="row">
-          <div className="col-sm-1" />
-          <div className="col-sm-11">
+          <div className="col-sm-2" />
+          <div className="col-sm-10">
             <h2>My name is Jana</h2>
           </div>
         </div>
         <div className="row">
-          <div className="col-sm-1" />
+          <div className="col-sm-2" />
           <div className="col-sm-3">
             <h3>
               I am Content Creator, Junior Front-End Developer & Surf Instructor
@@ -26,8 +26,8 @@ class About extends Component {
           </div>
         </div>
         <div className="row">
-          <div className="col-sm-1" />
-          <div className="col-sm-5">
+          <div className="col-sm-2" />
+          <div className="col-sm-4">
             <p>
               Bio .......... Lorem ipsum dolor sit amet, consectetuer adipiscing
               elit. Aliquam erat volutpat. In sem justo, commodo ut, suscipit
