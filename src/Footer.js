@@ -8,7 +8,7 @@ class Footer extends Component {
         <div className="row pt-5 pb-5">
           <div className="col-sm cleafix">
             <i class="far fa-copyright" />
-            <span>2018 by JANKA</span>
+            <span>2019 by JANKA</span>
           </div>
         </div>
       </div>
