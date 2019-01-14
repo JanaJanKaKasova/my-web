@@ -5,3 +5,23 @@
 .about_copy {
   text-align: center;
 }
+
+.fa-facebook {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.fa-instagram {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.fa-github {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.fa-linkedin {
+  text-align: center;
+  font-size: 2rem;
+}

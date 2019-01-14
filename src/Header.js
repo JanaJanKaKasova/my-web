@@ -13,7 +13,7 @@ class Header extends Component {
           <div className="col-sm-5 pt-5 pl-5">
             <div className="row pt-5" />
             <div className="row pt-5 quote">
-              <h1>"Dreams don't work unless we do"</h1>
+              <h1>"Dreams don't work unless you do"</h1>
             </div>
             <div className="row">
               <div className="col-sm" />

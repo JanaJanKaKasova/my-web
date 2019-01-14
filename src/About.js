@@ -5,7 +5,7 @@ class About extends Component {
   render() {
     return (
       <div className="about">
-        <div className="row pt-5">
+        <div className="row pt-5 pb-5">
           <div className="col-sm" />
           <div className="col-sm heading">
             <h1>...so I do</h1>
@@ -18,7 +18,7 @@ class About extends Component {
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row">
+        <div className="row pt-3">
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
             <h3>
@@ -27,7 +27,7 @@ class About extends Component {
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row">
+        <div className="row pt-4">
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
             <p>
@@ -39,6 +39,22 @@ class About extends Component {
             </p>
           </div>
           <div className="col-sm-2" />
+        </div>
+        <div className="row pt-4">
+          <div className="col-sm-4" />
+          <div className="col-sm-1">
+            <i class="fab fa-facebook" />
+          </div>
+          <div className="col-sm-1">
+            <i class="fab fa-instagram" />
+          </div>
+          <div className="col-sm-1">
+            <i class="fab fa-github" />
+          </div>
+          <div className="col-sm-1">
+            <i class="fab fa-linkedin" />
+          </div>
+          <div className="col-sm-4" />
         </div>
       </div>
     );
