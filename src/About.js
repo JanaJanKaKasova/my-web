@@ -14,7 +14,7 @@ class About extends Component {
         <div className="row pt-5">
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
-            <h2>My name is Jana</h2>
+            <h2>My name is Jana "Janka" Kašová</h2>
           </div>
           <div className="col-sm-2" />
         </div>
@@ -31,16 +31,19 @@ class About extends Component {
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
             <p>
-              Bio .......... Lorem ipsum dolor sit amet, consectetuer adipiscing
-              elit. Aliquam erat volutpat. In sem justo, commodo ut, suscipit
-              at, pharetra vitae, orci. Fusce dui leo, imperdiet in, aliquam sit
-              amet, feugiat eu, orci. Duis sapien nunc, commodo et, interdum
-              suscipit, sollicitudin et, dolor. In rutrum.
+              Bio ..........Born in Czech Republic, actually living in between
+              Lisbon and Prague, working my way to become independent Front-End
+              Developer and Free surfer... Lorem ipsum dolor sit amet,
+              consectetuer adipiscing elit. Aliquam erat volutpat. In sem justo,
+              commodo ut, suscipit at, pharetra vitae, orci. Fusce dui leo,
+              imperdiet in, aliquam sit amet, feugiat eu, orci. Duis sapien
+              nunc, commodo et, interdum suscipit, sollicitudin et, dolor. In
+              rutrum.
             </p>
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row pt-4">
+        <div className="row pt-4 pb-5">
           <div className="col-sm-4" />
           <div className="col-sm-1">
             <i class="fab fa-facebook" />
