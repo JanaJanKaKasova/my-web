@@ -9,19 +9,27 @@
 .fa-facebook {
   text-align: center;
   font-size: 2rem;
+  display: inline-block;
+  width: 100%;
 }
 
 .fa-instagram {
   text-align: center;
   font-size: 2rem;
+  display: inline-block;
+  width: 100%;
 }
 
 .fa-github {
   text-align: center;
   font-size: 2rem;
+  display: inline-block;
+  width: 100%;
 }
 
 .fa-linkedin {
   text-align: center;
   font-size: 2rem;
+  display: inline-block;
+  width: 100%;
 }
