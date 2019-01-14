@@ -6,7 +6,7 @@ class Footer extends Component {
     return (
       <div className="footer">
         <div className="row pt-5 pb-5">
-          <div className="col-sm cleafix">
+          <div className="col-sm">
             <i class="far fa-copyright" />
             <span>2019 by JANKA</span>
           </div>
