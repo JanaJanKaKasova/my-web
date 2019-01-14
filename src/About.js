@@ -46,16 +46,28 @@ class About extends Component {
         <div className="row pt-4 pb-5">
           <div className="col-sm-4" />
           <div className="col-sm-1">
-            <i class="fab fa-facebook" />
+            <a href="https://www.facebook.com/JanaKasova.JanKa">
+              {" "}
+              <i class="fab fa-facebook"> </i>
+            </a>
           </div>
           <div className="col-sm-1">
-            <i class="fab fa-instagram" />
+            <a href="https://www.instagram.com/jan.ka.s/">
+              {" "}
+              <i class="fab fa-instagram" />
+            </a>
           </div>
           <div className="col-sm-1">
-            <i class="fab fa-github" />
+            <a href="https://github.com/JanaJanKaKasova">
+              {" "}
+              <i class="fab fa-github" />
+            </a>
           </div>
           <div className="col-sm-1">
-            <i class="fab fa-linkedin" />
+            <a href="https://www.linkedin.com/in/jana-kasova/">
+              {" "}
+              <i class="fab fa-linkedin" />
+            </a>
           </div>
           <div className="col-sm-4" />
         </div>
