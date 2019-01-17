@@ -6,6 +6,10 @@
   text-align: center;
 }
 
+a {
+  color: #212429;
+}
+
 .fa-facebook {
   text-align: center;
   font-size: 2rem;
