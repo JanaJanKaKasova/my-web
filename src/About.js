@@ -31,14 +31,36 @@ class About extends Component {
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
             <p>
-              Bio ..........Born in Czech Republic, actually living in between
-              Lisbon and Prague, working my way to become independent Front-End
-              Developer and Free surfer... Lorem ipsum dolor sit amet,
-              consectetuer adipiscing elit. Aliquam erat volutpat. In sem justo,
-              commodo ut, suscipit at, pharetra vitae, orci. Fusce dui leo,
-              imperdiet in, aliquam sit amet, feugiat eu, orci. Duis sapien
-              nunc, commodo et, interdum suscipit, sollicitudin et, dolor. In
-              rutrum.
+              I was born in Czech Republic. When I was 20 and studying abroad, I
+              fell in love.. with the ocean. At the moment I am living in
+              between Lisbon and Prague, working my way to become geographically
+              independent Front-End Developer and Free surfer. And I have to
+              admit this path is not as idylic as it sounds.
+            </p>
+            <p>
+              I am addicted to learning new things. So when I finished my
+              Master's at Media studies, I decided to learn to code websites and
+              apps. I also do design, mainly Web Design. Trying to get better in
+              both, UI and UX Design and I can do some good old Graphic Desing
+              as well. Also, I have plenty of skills in Marketing. Mainly Social
+              Media Management, Copywriting and of course the SEO.
+            </p>
+            <p>
+              <i>
+                <b>
+                  So in a shortcut, I am helping to my clients with their
+                  succesful on-line presence.
+                </b>
+              </i>
+            </p>
+            <p>
+              Because I don't like sitting whole day at the computer and I enjoy
+              some offline work, I am also Instructor of Surfing, certified by
+              international Academy of Surfing Instructors.
+            </p>
+            <p>
+              If you are interested in working with me, contact me on one of the
+              links bellow.
             </p>
           </div>
           <div className="col-sm-2" />
