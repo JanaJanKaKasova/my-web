@@ -11,7 +11,12 @@ class Navbar extends Component {
         <div className="row">
           <div className="col-sm-1 pt-5 pb-5" />
           <div className="logo col-sm-2 pt-3">
-            <img src={logo} alt="Logo" />
+            <a
+              href="https://www.freeride.cz/surfr/surfr-blogy-jankas"
+              target="_blank"
+            >
+              <img src={logo} alt="Logo" />
+            </a>
           </div>
           <div className="menu_list col-sm-2 pt-5 pb-5">Home</div>
           <div className="menu_list col-sm-2 pt-5 pb-5">About</div>
