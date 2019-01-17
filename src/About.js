@@ -14,7 +14,7 @@ class About extends Component {
         <div className="row pt-5">
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
-            <h2>My name is Jana "Janka" Kašová</h2>
+            <h2>My name is Jana "JanKa" Kašová</h2>
           </div>
           <div className="col-sm-2" />
         </div>
