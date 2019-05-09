@@ -5,7 +5,7 @@ import "./Header.css";
 class Header extends Component {
   render() {
     return (
-      <div className="conatiner-fluid header_container">
+      <div className="conatiner-fluid header_container" id="Header">
         <div className="row pt-4">
           <div className="col-sm-6 main_pic">
             <img src={main_pic} alt="Main_pic" />

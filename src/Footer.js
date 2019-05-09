@@ -33,7 +33,7 @@ class Footer extends Component {
           </div>
           <div className="col-sm-4" />
         </div>*/}
-        <div className="row pt-3 pb-5">
+        <div className="row pt-3 pb-5" id="hire_me">
           <div className="col-sm">
             <i class="far fa-copyright" />
             <span>2019 by JANKA</span>

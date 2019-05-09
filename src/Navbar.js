@@ -18,10 +18,28 @@ class Navbar extends Component {
               <img src={logo} alt="Logo" />
             </a>
           </div>
-          <div className="menu_list col-sm-2 pt-5 pb-5">Home</div>
-          <div className="menu_list col-sm-2 pt-5 pb-5">About</div>
-          <div className="menu_list col-sm-2 pt-5 pb-5">Projects</div>
-          <div className="menu_list col-sm-2 pt-5 pb-5">Hire Me</div>
+          <div className="menu_list col-sm-2 pt-5 pb-5">
+            {" "}
+            <a href="#Header">
+              <h5>Home</h5>
+            </a>
+          </div>
+          <div className="menu_list col-sm-2 pt-5 pb-5">
+            {" "}
+            <a href="#about">
+              <h5>About</h5>
+            </a>
+          </div>
+          <div className="menu_list col-sm-2 pt-5 pb-5">
+            <a href="#projects">
+              <h5>Projects</h5>
+            </a>
+          </div>
+          <div className="menu_list col-sm-2 pt-5 pb-5">
+            <a href="#hire_me">
+              <h5>Hire me</h5>
+            </a>
+          </div>
           <div className="col-sm-1 pt-5 pb-5" />
         </div>
       </div>
