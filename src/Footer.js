@@ -5,7 +5,7 @@ class Footer extends Component {
   render() {
     return (
       <div className="footer">
-        {/* <div className="row pt-4 pb-4">
+        <div className="row pt-4 pb-4">
           <div className="col-sm-4" />
           <div className="col-sm-1">
             <a href="https://www.facebook.com/JanaKasova.JanKa" target="_blank">
@@ -32,7 +32,7 @@ class Footer extends Component {
             </a>
           </div>
           <div className="col-sm-4" />
-        </div>*/}
+        </div>
         <div className="row pt-3 pb-5" id="hire_me">
           <div className="col-sm">
             <i class="far fa-copyright" />

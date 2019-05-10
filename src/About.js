@@ -65,7 +65,7 @@ class About extends Component {
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row pt-4 pb-5">
+        <div className="row pt-5 pb-5">
           <div className="col-sm-4" />
           <div className="col-sm-1">
             <a href="https://www.facebook.com/JanaKasova.JanKa" target="_blank">
