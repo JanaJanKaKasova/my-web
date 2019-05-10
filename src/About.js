@@ -27,7 +27,7 @@ class About extends Component {
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row pt-4">
+        <div className="row pt-4 pb-5">
           <div className="col-sm-2" />
           <div className="col-sm-8 about_copy">
             <p>
@@ -60,12 +60,12 @@ class About extends Component {
             </p>
             <p>
               If you are interested in working with me, contact me on one of the
-              links bellow.
+              links bellow the <b>Projects</b>.
             </p>
           </div>
           <div className="col-sm-2" />
         </div>
-        <div className="row pt-5 pb-5">
+        {/* <div className="row pt-5 pb-5">
           <div className="col-sm-4" />
           <div className="col-sm-1">
             <a href="https://www.facebook.com/JanaKasova.JanKa" target="_blank">
@@ -92,7 +92,7 @@ class About extends Component {
             </a>
           </div>
           <div className="col-sm-4" />
-        </div>
+          </div>*/}
       </div>
     );
   }
