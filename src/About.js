@@ -38,12 +38,15 @@ class About extends Component {
               admit this path is not as idylic as it sounds.
             </p>
             <p>
-              I am addicted to learning new things. So when I finished my
-              Master's at Media studies, I decided to learn to code websites and
-              apps. I also do design, mainly Web Design. Trying to get better in
-              both, UI and UX Design and I can do some good old Graphic Desing
-              as well. Also, I have plenty of skills in Marketing. Mainly Social
-              Media Management, Copywriting and of course the SEO.
+              I am addicted to learning new things. So when I finished my{" "}
+              <b>Master's at Media studies</b>, I decided to learn{" "}
+              <b>to code websites and apps</b>. I also do <b>Design</b>, mainly{" "}
+              <b>Web Design</b>. Trying to get better in both,{" "}
+              <b>UI and UX Design</b> and I can do some Graphic Desing for
+              Marketing purposes as well. <b>Marketing and Content Creation</b>{" "}
+              were my main areas before I started to code, so I have plenty of
+              skills from there. Mainly in{" "}
+              <b>Social Media Management, Copywriting and the SEO</b>.
             </p>
             <p>
               <i>
@@ -54,9 +57,11 @@ class About extends Component {
               </i>
             </p>
             <p>
-              Because I don't like sitting whole day at the computer and I enjoy
-              some offline work, I am also Instructor of Surfing, certified by
-              international Academy of Surfing Instructors.
+              Because I don't like sitting at the computer whole day and I enjoy
+              some offline work, I am also <b>Instructor of Surfing</b>,
+              certified by international Academy of Surfing Instructors. Even
+              though it sounds like I am super busy, it actually combines very
+              well. :)
             </p>
             <p>
               If you are interested in working with me, contact me on one of the
