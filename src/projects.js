@@ -1,5 +1,8 @@
 import React, { Component } from "react";
 import "./About.css";
+import LVPweb from "./pics/LVPweb.png";
+import pinkWeather from "./pics/pinkWeather.png";
+import svazdesign from "./pics/svazdesign.png";
 
 class projects extends Component {
   render() {
@@ -38,31 +41,32 @@ class projects extends Component {
                 </ol>
                 <div className="carousel-inner">
                   <div className="carousel-item active">
-                    <img src="..." className="d-block w-100" alt="..." />
+                    <img src={LVPweb} className="d-block w-100" alt="..." />
                     <div className="carousel-caption d-none d-md-block">
-                      <h5>First slide label</h5>
+                      <h5>Libor Valečka a partneři - financial advisors</h5>
+                      <p>Webdesign, social media content, copywriting</p>
+                    </div>
+                  </div>
+                  <div className="carousel-item">
+                    <img
+                      src={pinkWeather}
+                      className="d-block w-100"
+                      alt="..."
+                    />
+                    <div className="carousel-caption d-none d-md-block">
+                      <h5>pinkWeather - weather app</h5>
                       <p>
-                        Nulla vitae elit libero, a pharetra augue mollis
-                        interdum.
+                        React JS web app - Code, design, functionalities, API,
+                        etc.
                       </p>
                     </div>
                   </div>
                   <div className="carousel-item">
-                    <img src="..." className="d-block w-100" alt="..." />
+                    <img src={svazdesign} className="d-block w-100" alt="..." />
                     <div className="carousel-caption d-none d-md-block">
-                      <h5>Second slide label</h5>
+                      <h5>Český svaz surfingu</h5>
                       <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                      </p>
-                    </div>
-                  </div>
-                  <div className="carousel-item">
-                    <img src="..." className="d-block w-100" alt="..." />
-                    <div className="carousel-caption d-none d-md-block">
-                      <h5>Third slide label</h5>
-                      <p>
-                        Praesent commodo cursus magna, vel scelerisque nisl
-                        consectetur.
+                        Webdesign - website of The Czech Association of Surfing
                       </p>
                     </div>
                   </div>
@@ -93,7 +97,6 @@ class projects extends Component {
                 </a>
               </div>
             </div>
-            here will be the slider with my projects soon
           </div>
         </div>
         <div className="col-2" />
