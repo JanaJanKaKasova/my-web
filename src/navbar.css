@@ -8,6 +8,10 @@
   text-align: center;
 }
 
+.menu_list > a:hover {
+  color: transparent;
+}
+
 h5 {
   color: black;
 }
