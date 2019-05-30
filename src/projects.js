@@ -17,7 +17,7 @@ class projects extends Component {
         <div className="col-2" />
         <div className="container row pb-5">
           <div className="col-2" />
-          <div className="col-8 slider">
+          <div className="col-8 slider pl-5">
             <div className="bd-example">
               <div
                 id="carouselExampleCaptions"
